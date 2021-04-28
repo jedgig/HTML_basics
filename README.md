@@ -5,7 +5,7 @@ En este repositorio de github encontraras todos los pasos para poder crear tu pr
 
  * [Titulo de la pagina web](#title)
  * [Icono de la pagina web](#icon)
- * [Icono animado de la pagina web](#title)
+ * [Icono animado de la pagina web](#ani-icon)
 
 <a name="title"></a>
 ## ___Titulo de la pagina web HTML___
