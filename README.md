@@ -7,6 +7,7 @@ En este repositorio de github encontraras todos los pasos para poder crear tu pr
   * [<img src="https://i.ibb.co/8N870jW/Recurso-2-3x.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
   * [<img src="https://i.ibb.co/GFr8gSn/Recurso-4-3x.png" height="1.5%" width="1.5%"><img>Icono de la pagina web](#icon)
   * [<img src="https://i.ibb.co/JKGRSWM/Comp-1.gif" height="1.5%" width="1.5%"><img>Icono animado de la pagina web](#ani-icon)
+ 
 * Body
 
 <a name="title"></a>
