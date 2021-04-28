@@ -6,5 +6,5 @@ En este repositorio de github encontraras todos los pasos para poder crear tu pr
  * [Titulo a la pagina web](#title)
 
 <a name="title"></a>
-# Titulo de la pagina web HTML
+## Titulo de la pagina web HTML
 [Go To TOP](#first)  
