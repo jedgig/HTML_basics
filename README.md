@@ -3,7 +3,9 @@
 
 En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html y css.
 
- * [Titulo a la pagina web](#title)
+ * [Titulo de la pagina web](#title)
+ * [Icono de la pagina web](#icon)
+ * [Icono animado de la pagina web](#title)
 
 <a name="title"></a>
 ## ___Titulo de la pagina web HTML___
