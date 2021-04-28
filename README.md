@@ -4,7 +4,7 @@
 En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html y css.
 
  * [<img src="https://i.ibb.co/8N870jW/Recurso-2-3x.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
- * [<img src="https://i.ibb.co/4mcR1w7/Recurso-3-3x.png" height="1.7%" width="1.7%"><img>Icono de la pagina web](#icon)
+ * [<img src="https://i.ibb.co/GFr8gSn/Recurso-4-3x.png" height="1.7%" width="1.7%"><img>Icono de la pagina web](#icon)
  * [Icono animado de la pagina web](#ani-icon)
 
 <a name="title"></a>
