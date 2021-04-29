@@ -18,7 +18,6 @@ Para poder poner en ese apartados las cosas <b>normalmente</b> se usa el atribut
 
  ```html
 <head>
-	
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>JEDG</title>
@@ -27,10 +26,9 @@ Para poder poner en ese apartados las cosas <b>normalmente</b> se usa el atribut
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/menu.css">
 	<link rel="shortcut icon" href="./favicon.png">
-	
 </head>
  ``` 
- <a align="center">[Volver arriba](#first)</a>
+ <pre align="center">[Volver arriba](#first)</pre>
 
 
 <a name="title"></a>
