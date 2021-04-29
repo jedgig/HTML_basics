@@ -3,10 +3,10 @@
 
 En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html y css.
 
-* Head
-  * [<img src="https://i.ibb.co/8N870jW/Recurso-2-3x.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
-  * [<img src="https://i.ibb.co/GFr8gSn/Recurso-4-3x.png" height="1.5%" width="1.5%"><img>Icono de la pagina web](#icon)
-  * [<img src="https://i.ibb.co/JKGRSWM/Comp-1.gif" height="1.5%" width="1.5%"><img>Icono animado de la pagina web](#ani-icon)
+* [<img src="https://i.ibb.co/59rQVZc/Folder-Icon.png" height="1.5%" width="1.5%"><img> Head](#title)
+  * [<img src="https://i.ibb.co/8N870jW/Web-Icon.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
+  * [<img src="https://i.ibb.co/GFr8gSn/Icon.png" height="1.5%" width="1.5%"><img>Icono de la pagina web](#icon)
+  * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img>Icono animado de la pagina web](#ani-icon)
  
 * Body
 
@@ -102,3 +102,4 @@ Vivamus pretium ultricies quam placerat auctor. Nullam at ipsum dapibus, facilis
 
 ### Vectores usados:
 <a href='https://www.freepik.es/vectores/flecha'>Vector de Flecha creado por macrovector - www.freepik.es</a>
+<a href='https://www.freepik.es/vectores/calendario'>Vector de Calendario creado por makyzz - www.freepik.es</a>
