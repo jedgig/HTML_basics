@@ -101,6 +101,6 @@ Vivamus pretium ultricies quam placerat auctor. Nullam at ipsum dapibus, facilis
 
 
 ### Vectores usados:
-<a href='https://www.freepik.es/vectores/flecha'>Vector de Flecha creado por macrovector - www.freepik.es</a>
-<a href='https://www.freepik.es/vectores/calendario'>Vector de Calendario creado por makyzz - www.freepik.es</a>
-<a href='https://www.freepik.es/vectores/flecha'>Vector de Flecha creado por pch.vector - www.freepik.es</a>
+<p><a href='https://www.freepik.es/vectores/flecha'>Vector de Flecha creado por macrovector - www.freepik.es</a></p>
+<p><a href='https://www.freepik.es/vectores/calendario'>Vector de Calendario creado por makyzz - www.freepik.es</a></p>
+<p><a href='https://www.freepik.es/vectores/flecha'>Vector de Flecha creado por pch.vector - www.freepik.es</a></p>
