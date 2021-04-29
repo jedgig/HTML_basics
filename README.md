@@ -9,7 +9,7 @@ En este repositorio de github encontraras todos los pasos para poder crear tu pr
   * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img>Icono animado de la pagina web](#ani-icon)
  
 * Body
-
+<br></br>
 <a name="head"></a>
 ## Head del html
 El head de las paginas web html es el metadato de la pagina web, hay podras escribir el [titulo](#title) que se vera en la barra superior de pestañas web abiertas en tu navegador, tambien bastante importante, podras poner el [icono](#icon) a tu pagina. 
@@ -33,7 +33,7 @@ Para poder poner en ese apartados las cosas <b>normalmente</b> se usa el atribut
  <p align="center">
   <a href="#first"><img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img> Volver arriba <img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img></a>
 </p>
-
+<br></br>
 
 <a name="title"></a>
 ### ___Titulo de la pagina web HTML___
