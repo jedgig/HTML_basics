@@ -18,14 +18,16 @@ Para poder poner en ese apartados las cosas <b>normalmente</b> se usa el atribut
 
  ```html
 <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>JEDG</title>
-        <meta name="description" content="Descripción que aparecera en los buscadores">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>JEDG</title>
+	<meta name="description" content="Descripción que aparecera en los buscadores">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/menu.css">
 	<link rel="shortcut icon" href="./favicon.png">
+	
 </head>
  ``` 
  
