@@ -1,7 +1,7 @@
 <a name="first"></a>
 # HTML_basics     <img src="https://i.ibb.co/qJpLW79/mi-logo-1.png" height="4%" width="4%" ><img>
 
-En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html y css.
+En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html.
 
 * [<img src="https://i.ibb.co/59rQVZc/Folder-Icon.png" height="1.5%" width="1.5%"><img> Head](#head)
   * [<img src="https://i.ibb.co/8N870jW/Web-Icon.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
