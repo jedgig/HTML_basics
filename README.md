@@ -28,7 +28,7 @@ Para poder poner en ese apartados las cosas <b>normalmente</b> se usa el atribut
 	<link rel="shortcut icon" href="./favicon.png">
 </head>
  ``` 
- <pre align="center">[Volver arriba](#first)</pre>
+ <p align="center">"[Volver arriba](#first)"</p>
 
 
 <a name="title"></a>
