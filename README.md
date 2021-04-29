@@ -3,14 +3,14 @@
 
 En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html y css.
 
-* [<img src="https://i.ibb.co/59rQVZc/Folder-Icon.png" height="1.5%" width="1.5%"><img> Head](#title)
+* [<img src="https://i.ibb.co/59rQVZc/Folder-Icon.png" height="1.5%" width="1.5%"><img> Head](#head)
   * [<img src="https://i.ibb.co/8N870jW/Web-Icon.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
   * [<img src="https://i.ibb.co/GFr8gSn/Icon.png" height="1.5%" width="1.5%"><img>Icono de la pagina web](#icon)
   * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img>Icono animado de la pagina web](#ani-icon)
  
 * Body
 
-<a name="first"></a>
+<a name="head"></a>
 ## Head del html
 El head de las paginas web html es el matadato de la pagina web, hay podras escribir el [titulo](#title) que se vera en la barra superior de pestañas web abiertas en tu navegador, tambien bastante importante, podras poner el [icono](#icon) a tu pagina. 
  
