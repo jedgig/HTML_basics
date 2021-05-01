@@ -1,5 +1,5 @@
 <a name="first"></a>
-# HTML_basics     <img src="https://i.ibb.co/GFr8gSn/Icon.png" height="4%" width="4%" ><img>
+# HTML_basics     <b></></b>
 
 En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html.
 
