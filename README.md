@@ -10,6 +10,7 @@ En este repositorio de github encontraras todos los pasos para poder crear tu pr
  
 * Body
 <br></br>
+<br></br>
 <a name="head"></a>
 ## Head del html
 El head de las paginas web html es el metadato de la pagina web, hay podras escribir el [titulo](#title) que se vera en la barra superior de pestañas web abiertas en tu navegador, tambien bastante importante, podras poner el [icono](#icon) a tu pagina. 
