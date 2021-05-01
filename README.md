@@ -1,5 +1,5 @@
 <a name="first"></a>
-# HTML_basics <h1><b></></b></h1>
+# HTML_basics <b></></b>
 
 En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html.
 
