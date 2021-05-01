@@ -40,7 +40,7 @@ Para poder poner en ese apartados las cosas <b>normalmente</b> se usa el atribut
 
 El titulo es una cusa bastante importante de una pagina web, porque sirbe para ser unica entre millones, para poder distinguirte entre todas las pestañas abiertas en tu navegador y poder usarlo como palabras claves para los buscadores como google, bing, duckduckgo, ...
 
-Tambien junto a la [descripción](#descr) podras fijarte en los primeros de los buscadores. Aqui tienes el codigo de ejemplo:
+Tambien junto a la [descripción](#descr) podras fijarte de los primeros de los buscadores. Aqui tienes el codigo de ejemplo:
 
 ```html
 <head>
@@ -51,8 +51,9 @@ Tambien junto a la [descripción](#descr) podras fijarte en los primeros de los 
   <a href="#first"><img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img> Volver arriba <img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img></a>
 </p>
 <br></br>
+
 <a name="icon"></a>
-## ___Icono de la pagina web HTML___
+##___Icono de la pagina web HTML___
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus urna semper, faucibus elit ac, blandit lectus. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla ante dui, maximus ac nulla at, facilisis dapibus sem. Mauris urna magna, faucibus in lectus sit amet, posuere consectetur tortor. Duis suscipit varius magna vel imperdiet. Mauris facilisis odio vitae lacus consequat, aliquam ultrices sapien vulputate. Nullam tincidunt efficitur sollicitudin. Suspendisse lobortis, ligula a auctor gravida, quam felis egestas mi, eu ornare mi mi vitae eros. Nunc feugiat ex in dolor varius, at euismod dolor eleifend. Phasellus nec semper leo. Nullam ex diam, blandit vestibulum volutpat at, pellentesque eget orci. Praesent auctor neque in metus blandit ultricies. Curabitur eget porta mauris.
