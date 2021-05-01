@@ -33,7 +33,7 @@ Para poder poner en ese apartados las cosas <b>normalmente</b> se usa el atribut
  <p align="center">
   <a href="#first"><img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img> Volver arriba <img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img></a>
 </p>
- <hr size="1px" color="var(--color-text-primary)"/>
+ <hr size="0.5px" color="var(--color-text-primary)"/>
 
 <a name="title"></a>
 ### ___Titulo de la pagina web HTML___
