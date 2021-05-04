@@ -56,7 +56,7 @@ Tambien junto a la [descripción](#descr) podras fijarte de los primeros de los 
 ### ___Icono de la pagina web HTML___
 El icono de la pagina web es la segunda cosa más importante aparte del [titulo](#title) para distinguir tu página web de otras entre todas las pestañas abiertas en tu navegador.
 
-Dentro del <link> del [<head>](#head) en el src tendrias que poner el directorio donde tienes almacenado el icono de la pagina web, puede ser en cualquier formato de imagen (.PNG, .ICO, .SVG, .JPEG, ...) y en el atributo <b>rel</b> tendrias que poner a que te quieres dirigir en este caso tendriamos que poner ```shortcut icon```.
+Dentro del <link> del [<head>](#head) en el src tendrias que poner el directorio donde tienes almacenado el icono de la pagina web, puede ser en cualquier formato de imagen (.PNG, .ICO, .SVG, .JPEG, ...) y en el atributo <b>rel</b> tendrias que poner a que te quieres dirigir en este caso tendriamos que poner ```shortcut icon```. El tamaño recomendado para el icono de la web es <b>250px X 250px</b>, es decir un logotipo preferiblemente cuadrado.
 
 Aqui tienes una parte del codigo:
 
@@ -72,24 +72,22 @@ Aqui tienes una parte del codigo:
 
 <br></br>
 <a name="ani-icon"></a>
-## ___Icono animado de la pagina web HTML___
+### ___Icono animado de la pagina web HTML___
+El icono de la pagina web animado es representativo y bastante bonito. No es muy usado por los usuarios porque no estamos acostubrados a ello. 
 
+Dentro del <link> del [<head>](#head) en el src tendrias que poner el directorio donde tienes almacenado el icono de la pagina web, puede ser en cualquier formato de imagen animado(.APNG, .GIF, ...) y en el atributo <b>rel</b> tendrias que poner a que te quieres dirigir en este caso tendriamos que poner ```shortcut icon```. El tamaño recomendado para el icono de la web es <b>250px X 250px</b>, es decir un logotipo preferiblemente cuadrado.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus urna semper, faucibus elit ac, blandit lectus. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla ante dui, maximus ac nulla at, facilisis dapibus sem. Mauris urna magna, faucibus in lectus sit amet, posuere consectetur tortor. Duis suscipit varius magna vel imperdiet. Mauris facilisis odio vitae lacus consequat, aliquam ultrices sapien vulputate. Nullam tincidunt efficitur sollicitudin. Suspendisse lobortis, ligula a auctor gravida, quam felis egestas mi, eu ornare mi mi vitae eros. Nunc feugiat ex in dolor varius, at euismod dolor eleifend. Phasellus nec semper leo. Nullam ex diam, blandit vestibulum volutpat at, pellentesque eget orci. Praesent auctor neque in metus blandit ultricies. Curabitur eget porta mauris.
+Aqui tienes una parte del codigo:
 
-Vivamus pretium ultricies quam placerat auctor. Nullam at ipsum dapibus, facilisis erat eu, consectetur metus. Nam consequat dictum eros, ac mollis risus elementum vitae. Vestibulum maximus, sapien a lacinia pretium, metus quam pharetra sapien, vel feugiat libero leo nec elit. Curabitur vitae ultrices odio. Nullam in pharetra massa, sed pellentesque metus. Sed egestas venenatis convallis. Sed volutpat nisi sed quam semper feugiat. Vestibulum non dignissim quam. Curabitur nibh quam, vehicula at nisl sed, fringilla porta justo. Praesent malesuada arcu at dapibus pulvinar. 
+```html
+<head>
+	<link rel="shortcut icon" href="Directorio del icono.gif">
+</head>
+```
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus urna semper, faucibus elit ac, blandit lectus. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla ante dui, maximus ac nulla at, facilisis dapibus sem. Mauris urna magna, faucibus in lectus sit amet, posuere consectetur tortor. Duis suscipit varius magna vel imperdiet. Mauris facilisis odio vitae lacus consequat, aliquam ultrices sapien vulputate. Nullam tincidunt efficitur sollicitudin. Suspendisse lobortis, ligula a auctor gravida, quam felis egestas mi, eu ornare mi mi vitae eros. Nunc feugiat ex in dolor varius, at euismod dolor eleifend. Phasellus nec semper leo. Nullam ex diam, blandit vestibulum volutpat at, pellentesque eget orci. Praesent auctor neque in metus blandit ultricies. Curabitur eget porta mauris.
-
-Vivamus pretium ultricies quam placerat auctor. Nullam at ipsum dapibus, facilisis erat eu, consectetur metus. Nam consequat dictum eros, ac mollis risus elementum vitae. Vestibulum maximus, sapien a lacinia pretium, metus quam pharetra sapien, vel feugiat libero leo nec elit. Curabitur vitae ultrices odio. Nullam in pharetra massa, sed pellentesque metus. Sed egestas venenatis convallis. Sed volutpat nisi sed quam semper feugiat. Vestibulum non dignissim quam. Curabitur nibh quam, vehicula at nisl sed, fringilla porta justo. Praesent malesuada arcu at dapibus pulvinar. 
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum cursus urna semper, faucibus elit ac, blandit lectus. Suspendisse potenti. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla ante dui, maximus ac nulla at, facilisis dapibus sem. Mauris urna magna, faucibus in lectus sit amet, posuere consectetur tortor. Duis suscipit varius magna vel imperdiet. Mauris facilisis odio vitae lacus consequat, aliquam ultrices sapien vulputate. Nullam tincidunt efficitur sollicitudin. Suspendisse lobortis, ligula a auctor gravida, quam felis egestas mi, eu ornare mi mi vitae eros. Nunc feugiat ex in dolor varius, at euismod dolor eleifend. Phasellus nec semper leo. Nullam ex diam, blandit vestibulum volutpat at, pellentesque eget orci. Praesent auctor neque in metus blandit ultricies. Curabitur eget porta mauris.
-
-Vivamus pretium ultricies quam placerat auctor. Nullam at ipsum dapibus, facilisis erat eu, consectetur metus. Nam consequat dictum eros, ac mollis risus elementum vitae. Vestibulum maximus, sapien a lacinia pretium, metus quam pharetra sapien, vel feugiat libero leo nec elit. Curabitur vitae ultrices odio. Nullam in pharetra massa, sed pellentesque metus. Sed egestas venenatis convallis. Sed volutpat nisi sed quam semper feugiat. Vestibulum non dignissim quam. Curabitur nibh quam, vehicula at nisl sed, fringilla porta justo. Praesent malesuada arcu at dapibus pulvinar. 
+ <p align="center">
+  <a href="#first"><img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img> Volver arriba <img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img></a>
+</p>
 
 [Go To TOP](#first)  
 
