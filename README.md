@@ -7,6 +7,7 @@ En este repositorio de github encontraras todos los pasos para poder crear tu pr
   * [<img src="https://i.ibb.co/8N870jW/Web-Icon.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
   * [<img src="https://i.ibb.co/GFr8gSn/Icon.png" height="1.5%" width="1.5%"><img>Icono de la pagina web](#icon)
   * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img>Icono animado de la pagina web](#ani-icon)
+  * [Conexión con el estilo](#style)
  
 * Body
 <br></br>
@@ -89,6 +90,24 @@ Aqui tienes una parte del codigo:
   <a href="#first"><img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img> Volver arriba <img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img></a>
 </p>
 
+<br></br>
+<a name="style"></a>
+### ___Conexión con el estilo de la web (ccs)___
+El estilo de la web es un archivo o apartado del html que da el diseño a la web.
+
+Para ponerlo es muy sencillo, unicamente se necesita una linea de codigo que se tiene que añadir en el apartado del <head>. Que se añade el enlace o el directorio del archivo css en el equipo. Por ejemplo: ./css/main.css
+
+Aqui tienes una parte del codigo:
+
+```html
+<head>
+	<link rel="stylesheet" href="directorio del css">
+</head>
+```
+
+ <p align="center">
+  <a href="#first"><img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img> Volver arriba <img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img></a>
+</p>
 
 ### Vectores usados:
 <p><a href='https://www.freepik.es/vectores/flecha'>Vector de Flecha creado por macrovector - www.freepik.es</a></p>
