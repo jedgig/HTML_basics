@@ -5,9 +5,9 @@ En este repositorio de github encontraras todos los pasos para poder crear tu pr
 
 * [<img src="https://i.ibb.co/59rQVZc/Folder-Icon.png" height="1.5%" width="1.5%"><img> Head](#head)
   * [<img src="https://i.ibb.co/8N870jW/Web-Icon.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
-  * [<img src="https://i.ibb.co/GFr8gSn/Icon.png" height="1.5%" width="1.5%"><img>Icono de la pagina web](#icon)
-  * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img>Icono animado de la pagina web](#ani-icon)
-  * [<img src="https://i.ibb.co/MpdwJjp/Style.png" height="1.5%" width="1.5%"><img>Conexión con el estilo](#style)
+  * [<img src="https://i.ibb.co/GFr8gSn/Icon.png" height="1.5%" width="1.5%"><img> Icono de la pagina web](#icon)
+  * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img> Icono animado de la pagina web](#ani-icon)
+  * [<img src="https://i.ibb.co/MpdwJjp/Style.png" height="1.5%" width="1.5%"><img> Conexión con el estilo](#style)
  
 * Body
 <br></br>
