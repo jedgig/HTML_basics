@@ -131,8 +131,9 @@ Por ejemplo:
 </p>
 
 <br></br>
-<a name="keywords"></a>
+<a name="key"></a>
 ###___Palabras clave de una página web___
+
 Las palabras sirven para una busqueda más sencilla de algo en los buscadores como google. Por ejemplo: Oferta sofas, Alquiler coche, Auriculares gamer, etc.
 
 Las palabras claves se usan igual que la descripción en el <head> es decir, un meta pero en este caso con un nombre de keywords.
