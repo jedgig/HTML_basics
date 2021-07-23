@@ -4,10 +4,12 @@
 En este repositorio de github encontraras todos los pasos para poder crear tu propia web paso a paso con html.
 
 * [<img src="https://i.ibb.co/59rQVZc/Folder-Icon.png" height="1.5%" width="1.5%"><img> Head](#head)
-  * [<img src="https://i.ibb.co/8N870jW/Web-Icon.png" height="1.5%" width="1.5%"><img> Titulo de la pagina web](#title)
-  * [<img src="https://i.ibb.co/GFr8gSn/Icon.png" height="1.5%" width="1.5%"><img> Icono de la pagina web](#icon)
-  * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img> Icono animado de la pagina web](#ani-icon)
+  * [<img src="https://i.ibb.co/8N870jW/Web-Icon.png" height="1.5%" width="1.5%"><img> Titulo de la página web](#title)
+  * [<img src="https://i.ibb.co/GFr8gSn/Icon.png" height="1.5%" width="1.5%"><img> Icono de la página web](#icon)
+  * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img> Icono animado de la página web](#ani-icon)
   * [<img src="https://i.ibb.co/MpdwJjp/Style.png" height="1.5%" width="1.5%"><img>  Conexión con el estilo](#style)
+  * [<img src="" height="1,5%" width="1,5%"></img> Descripción de la página web](#decription)
+  * [<img src="" height="1,5%" width="1,5%"></img> Palabras clave de la página web](#keys)
  
 * Body
 <br></br>
@@ -24,9 +26,9 @@ Para poder poner en ese apartados las cosas <b>normalmente</b> se usa el atribut
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>JEDG</title>
 	<meta name="description" content="Descripción que aparecera en los buscadores">
+	<meta name="keywords" content="Palabras clave con las que se podra buscar la página web">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="css/main.css">
-	<link rel="stylesheet" href="css/menu.css">
 	<link rel="shortcut icon" href="./favicon.png">
 </head>
  ``` 
@@ -102,6 +104,44 @@ Aqui tienes una parte del codigo:
 ```html
 <head>
 	<link rel="stylesheet" href="directorio del css">
+</head>
+```
+
+ <p align="center">
+  <a href="#first"><img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img> Volver arriba <img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img></a>
+</p>
+
+<br></br>
+<a name="description"></a>
+###___Descripción de una página web___
+La descripción de la pagina web es el texto que aparece junto al titulo en los buscadores de internet tipo google.
+
+Para poder insertarlo únicamente una lina en el <head> y seria añadirlo con un meta y en el nombre de description.
+
+Por ejemplo:
+
+```html
+<head>
+ <meta name="description" content="Texto que aparecera en la descripción.">
+</head>
+```
+
+ <p align="center">
+  <a href="#first"><img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img> Volver arriba <img src="https://i.ibb.co/28kFTyD/Top-Arrow-Icon.png" height="1.5%" width="1.5%"><img></a>
+</p>
+
+<br></br>
+<a name="keywords"></a>
+###___Palabras clave de una página web___
+Las palabras sirven para una busqueda más sencilla de algo en los buscadores como google. Por ejemplo: Oferta sofas, Alquiler coche, Auriculares gamer, etc.
+
+Las palabras claves se usan igual que la descripción en el <head> es decir, un meta pero en este caso con un nombre de keywords.
+
+Aqui estaria el ejemplo:
+
+```html
+<head>
+ <meta name="keywords" content="Todas las palabras claves separadas por comas.">
 </head>
 ```
 
