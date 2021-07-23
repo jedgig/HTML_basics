@@ -113,7 +113,7 @@ Aqui tienes una parte del codigo:
 
 <br></br>
 <a name="description"></a>
-###___Descripción de una página web___
+### ___Descripción de una página web___
 La descripción de la pagina web es el texto que aparece junto al titulo en los buscadores de internet tipo google.
 
 Para poder insertarlo únicamente una lina en el <head> y seria añadirlo con un meta y en el nombre de description.
@@ -132,7 +132,7 @@ Por ejemplo:
 
 <br></br>
 <a name="keys"></a>
-###___Palabras clave de una página web___
+### ___Palabras clave de una página web___
 
 Las palabras sirven para una busqueda más sencilla de algo en los buscadores como google. Por ejemplo: Oferta sofas, Alquiler coche, Auriculares gamer, etc.
 
