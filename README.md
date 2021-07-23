@@ -8,7 +8,7 @@ En este repositorio de github encontraras todos los pasos para poder crear tu pr
   * [<img src="https://i.ibb.co/GFr8gSn/Icon.png" height="1.5%" width="1.5%"><img> Icono de la página web](#icon)
   * [<img src="https://i.ibb.co/JKGRSWM/Animated-Icon.gif" height="1.5%" width="1.5%"><img> Icono animado de la página web](#ani-icon)
   * [<img src="https://i.ibb.co/MpdwJjp/Style.png" height="1.5%" width="1.5%"><img>  Conexión con el estilo](#style)
-  * [<img src="" height="1,5%" width="1,5%"></img> Descripción de la página web](#decription)
+  * [<img src="" height="1,5%" width="1,5%"></img> Descripción de la página web](#description)
   * [<img src="" height="1,5%" width="1,5%"></img> Palabras clave de la página web](#keys)
  
 * Body
