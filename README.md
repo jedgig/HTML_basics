@@ -131,7 +131,7 @@ Por ejemplo:
 </p>
 
 <br></br>
-<a name="key"></a>
+<a name="keys"></a>
 ###___Palabras clave de una página web___
 
 Las palabras sirven para una busqueda más sencilla de algo en los buscadores como google. Por ejemplo: Oferta sofas, Alquiler coche, Auriculares gamer, etc.
