@@ -153,5 +153,4 @@ Aqui estaria el ejemplo:
 ### Vectores usados:
 <p><a href='https://www.freepik.es/vectores/flecha'>Vector de Flecha creado por macrovector - www.freepik.es</a></p>
 <p><a href='https://www.freepik.es/vectores/calendario'>Vector de Calendario creado por makyzz - www.freepik.es</a></p>
-<p><a href='https://www.freepik.es/vectores/flecha'>Vector de Flecha creado por pch.vector - www.freepik.es</a></p>
 <p>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p>
